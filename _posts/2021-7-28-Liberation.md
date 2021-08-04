@@ -1,7 +1,6 @@
 ---
 layout: post
-title: Journey. Despair. Liberation.
-visible: 1
+title: Journey.
 ---
 
 The continuous beam of lights running back, the music from the platform at each stop, unknown people sitting close to you. No one to talk to, no one to share with. Howling of the train as it passes another tunnel. The same playlist of music blasts in your earphones as you glance at each person going out and coming in. Audio less advertisement telling you what to buy, and most of all, the silence. Absolute nothing. It's like the world around you knows what you feel. The emptiness. The lack of spirit. Don't know where you lost it, don't know how to get it back. Anything you'd do to bring it again, in a crowded but empty city. Anything you'd do to just feel the misery. Is it the loneliness? Is it the despair for intimacy? Or is it the desolation has never left you? Why is that even after about a quarter of a century, you don't know how to live? Why does something so simple feel so difficult? Is it just the city? The people? Or maybe the day? Reasons you find to make yourself feel better. As you let the darkness win. Doing nothing. Shackled by fear as you let another day pass by.
