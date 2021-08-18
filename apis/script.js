@@ -12,8 +12,6 @@ function openLink(someData) {
 }
 
 
-
-
 function playRandom() {
 
   var randomLink = listOfLinks[Math.floor(Math.random()*listOfLinks.length)];
