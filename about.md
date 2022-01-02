@@ -12,7 +12,7 @@ I am enjoy working on Software Engineering and Big Data Technologies.
 
 ### More Information
 
-I also love playing dota2, badminton and kickboxing.
+I also love playing dota2, badminton and .
 
 ### Contact me
 
