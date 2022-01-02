@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Blog
+title: Jan 1, 2022
 permalink: /blog/
 ---
 It’s weird writing this title. Yep. It’s 2022 already. I still feel like I am stuck in 2018 or 2019. Sometimes I wish I could go back there and sometimes, I don’t. Coming into this year, I am 25. I don’t feel not even an ounce bit ready being called as 25. So, you know what, I cannot control it anyway so, I am just gonna let it be. I am 25? Alright. I will take it. 
